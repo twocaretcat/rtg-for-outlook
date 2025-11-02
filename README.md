@@ -1,22 +1,22 @@
 <!-- Project Header -->
-<div align="center"> 
+<div align="center">
   <img class="projectLogo" src="icon.svg" alt="Project logo" title="Project logo" width="256">
 
   <h1 class="projectName">Random Text Generator for Outlook</h1>
 
   <p class="projectBadges">
     <img src="https://johng.io/badges/category/Extension.svg" alt="Project category" title="Project category">
-    <img src="https://img.shields.io/github/languages/top/jerboa88/rtg-for-outlook.svg" alt="Language" title="Language">
-    <img src="https://img.shields.io/github/repo-size/jerboa88/rtg-for-outlook.svg" alt="Repository size" title="Repository size">
+    <img src="https://img.shields.io/github/languages/top/twocaretcat/rtg-for-outlook.svg" alt="Language" title="Language">
+    <img src="https://img.shields.io/github/repo-size/twocaretcat/rtg-for-outlook.svg" alt="Repository size" title="Repository size">
     <a href="LICENSE">
-      <img src="https://img.shields.io/github/license/jerboa88/rtg-for-outlook.svg" alt="Project license" title="Project license"/>
+      <img src="https://img.shields.io/github/license/twocaretcat/rtg-for-outlook.svg" alt="Project license" title="Project license"/>
     </a>
   </p>
-  
+
   <p class="projectDesc">
     A browser extension that temporarily replaces private email content in Outlook with random text for development purposes.
   </p>
-  
+
   <br/>
 </div>
 
@@ -69,4 +69,4 @@ If you can't donate but still want to contribute, don't worry. There are many ot
 I appreciate the support!
 
 
-[Dark Mode for Outlook]: https://github.com/jerboa88/dark-mode-for-outlook
+[Dark Mode for Outlook]: https://github.com/twocaretcat/dark-mode-for-outlook

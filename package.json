@@ -15,14 +15,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/jerboa88/rtg-for-outlook.git"
+		"url": "git+https://github.com/twocaretcat/rtg-for-outlook.git"
 	},
 	"author": "John Goodliff",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/jerboa88/rtg-for-outlook/issues"
+		"url": "https://github.com/twocaretcat/rtg-for-outlook/issues"
 	},
-	"homepage": "https://github.com/jerboa88/rtg-for-outlook",
+	"homepage": "https://github.com/twocaretcat/rtg-for-outlook",
 	"engines": {
 		"node": ">=10.0.0"
 	}
