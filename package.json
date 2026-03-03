@@ -6,7 +6,7 @@
 	"devDependencies": {
 		"fs-extra": "^10.0.0",
 		"replace-in-file": "^6.3.2",
-		"sharp": "^0.29.3",
+		"sharp": "^0.32.6",
 		"zip-local": "^0.3.4"
 	},
 	"scripts": {
