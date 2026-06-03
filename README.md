@@ -69,4 +69,4 @@ If you can't donate but still want to contribute, don't worry. There are many ot
 I appreciate the support!
 
 
-[Dark Mode for Outlook]: https://github.com/twocaretcat/dark-mode-for-outlook
+[Dark Mode for Outlook]: https://github.com/caret-collective/dark-mode-for-outlook
