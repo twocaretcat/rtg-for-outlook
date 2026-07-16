@@ -1,13 +1,28 @@
 {
-  "$schema": "https://johng.io/schema/project-metadata.json",
-  "name": "Random Text Generator for Outlook",
-  "background": "A browser extension that temporarily replaces private email content on Outlook.com with random text for development purposes. Created to help automate publishing of screenshots for one of my other extensions.",
+	"$schema": "https://johng.io/schema/project-metadata.json",
+	"name": "Random Text Generator for Outlook",
+	"background": "Built a browser extension that replaces private email content in Outlook on the web with generated names, lorem ipsum text, and placeholder profile images using JavaScript DOM replacement logic. This extension is used during development of one of my other extensions, Dark Mode for Outlook, to produce extension-store screenshots that don't expose real messages. It uses a custom Node.js build script that generates icons using Sharp and packages static browser assets for publishing.",
 	"logoPath": "icon.svg",
+	"technologies": [
+		"Node.js",
+		"Sharp"
+	],
+	"tools": [
+		"Dependabot",
+		"Git",
+		"GitHub",
+		"Inkscape"
+	],
+	"topics": [
+		"OSS",
+		"Version Control",
+		"Web Design"
+	],
 	"category": "Extension",
 	"subcategory": "Browser",
-  "schema": {
-    "type": "Software",
-    "applicationCategory": "Developer",
-    "operatingSystem": "Any"
-  }
+	"schema": {
+		"type": "Software",
+		"applicationCategory": "Developer",
+		"operatingSystem": "Any"
+	}
 }
